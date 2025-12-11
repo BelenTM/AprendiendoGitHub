@@ -6,6 +6,7 @@ public class Saludo {
         System.out.println("Dime tu nombre: ");
         String nombre = scan.nextLine();
         System.out.println("Hola " + nombre + " ¡Hace mucho que no nos vemos!");
+        System.out.println("Esto es una prueba de sincronización");
         scan.close();
     }
     public void SaludarConEdad(){

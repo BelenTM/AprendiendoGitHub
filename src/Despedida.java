@@ -4,6 +4,6 @@ public class Despedida {
         Scanner scan = new Scanner(System.in);
         System.out.print("Dime tu nombre: ");
         String nombre = scan.nextLine();
-        System.out.println("Hasta luego " + nombre);
+        System.out.println("Hasta luego " + nombre + " .Espero verte más a menudo.");
     }
 }
